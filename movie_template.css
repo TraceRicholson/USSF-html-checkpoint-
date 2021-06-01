@@ -1,0 +1,30 @@
+
+nav{
+  display: flex;
+  background-color: black;
+  color: white;
+  align-items: center;
+}
+header{
+  display: flex;
+  background-color: rgb(52, 60, 85);
+  color: white;
+  align-items: flex-start;
+}
+nav a{
+  padding: 10px 0px 10px 0px;
+  margin: 1%;
+}
+nav h2{
+  margin: 1%;
+}
+
+img {
+  min-width: 20%; max-width:20%;
+  float: left;
+}
+
+div p{
+  float: center
+}
+

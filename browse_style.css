@@ -1,0 +1,36 @@
+
+nav{
+    display: flex;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+nav a{
+    padding: 10px 0px 10px 0px;
+    margin: 1%;
+}
+nav h2{
+    margin: 1%;
+}
+.search{
+  display: flex;
+  align-items: flex-end;
+}
+
+
+.flex-grid {
+  display: grid;
+  grid-gap: 20px;
+  grid-auto-flow: column;
+
+}
+.flex-grid>* {
+
+  height: 200px;
+}
+.col {
+  flex: 2;
+  padding: 10px
+}
+
+img {min-width: 90%; max-width:100%;}

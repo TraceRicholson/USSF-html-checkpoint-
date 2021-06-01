@@ -1,0 +1,27 @@
+
+nav{
+  display: flex;
+  background-color: black;
+  color: white;
+  align-items: center;
+}
+nav a{
+  padding: 0px 0px 0px 0px;
+  margin: 1%;
+}
+nav h2{
+  margin: 1%;
+}
+
+.flex-container {
+  min-height: 100vh;
+  display: flex;
+    justify-content: center;
+  align-items: center;
+}
+
+.flex-container2 {
+  display: flex;
+    justify-content: center;
+}
+
